@@ -43,8 +43,8 @@ inVisionaries is a revolutionary app designed to assist visually impaired indivi
 ## Getting Started
 Note: To use the full functionality, enable text-to-speech and camera permissions.
 
-## Application Link
-[**Download APK**](https://drive.google.com/file/d/your-apk-link/view?usp=sharing)
+## DropBox Link
+[**Download APK**]([https://drive.google.com/file/d/your-apk-link/view?usp=sharing](https://www.dropbox.com/t/zcBgQXHlSzbHHJBn))
 
 ## Contributing
 - Contributions are always welcome!
